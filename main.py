@@ -1,12 +1,17 @@
-print("Hello World!")
+print("Aqui mostramos de 'maneira rustica'")
+print("1")
+print("2")
+print("3")
+print("4")
+print("5")
+print("6")
+print("7")
+print("8")
+print("9")
+print("10")
 
-nome = "Bruno Henrique Silva"
-idade = 19
-
-print(nome)
-
-print("Minha idade é "+str(idade))
-print(f"Minha idade é {idade}")
-print("Minha idade é {}".format(idade))
-
-print("Meu nome é {} e tenho {} anos".format(nome,idade))
+print("Aqui é do jeito certo...")
+numero = 1
+print(numero)
+numero = numero + 1
+print(numero)
